@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVhaTQxN2hvZnBxM2NrdnY1ejkwZDN2ajFndWM5cG4ybGtoN3AydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="75%">
+  <img src="https://subreddit-memes-eta.vercel.app/api/meme" width="75%">
 </p>
 
 ---
@@ -67,10 +67,3 @@ Strong soft skills: **critical thinking, adaptability, persistence, and clear co
 <p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wesleykyle2005&theme=midnight_purple" width=100%>
-
----
-
-<img src="https://i.imgur.com/vKOQi1L.gif" width="100%">
-
-
-<img src="https://subreddit-memes-eta.vercel.app/api/meme" width="100%">
