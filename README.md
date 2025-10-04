@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://subreddit-memes-eta.vercel.app/api/meme" width="75%">
+  <img src="https://subreddit-memes-eta.vercel.app/api/meme" height="75%">
 </p>
 
 ---
