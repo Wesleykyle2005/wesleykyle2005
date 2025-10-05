@@ -25,9 +25,9 @@ I design and develop solutions using React/Next.js, .NET, Django, PostgreSQL, Do
   <p>Learning and applying <strong>AI fundamentals, development, and integration</strong> to create efficient, real-world solutions in projects.</p>  
 <details open>  
 <summary><h2>🧠 What I'm Learning Now</h2></summary>
-  <p>Strengthening my foundation in software development fundamentals to develop a more comprehensive and versatile skill set.</p>  
-  <p>Exploring software architecture, automation workflows, and design patterns to improve scalability, efficiency, and maintainability of solutions.</p>
-  <p>Studying AI concepts, development, and integration to create intelligent, real-world applications in my projects.</p>
+  <li><p>Strengthening my foundation in software development fundamentals to develop a more comprehensive and versatile skill set.</p></li>  
+  <li><p>Exploring software architecture, automation workflows, and design patterns to improve scalability, efficiency, and maintainability of solutions.</p></li>
+  <li><p>Studying AI concepts, development, and integration to create intelligent, real-world applications in my projects.</p></li>
 </details>  
 
 
