@@ -9,12 +9,10 @@
 
 ---
 
-I'm **Wesley**, a **Systems Engineering student** at the National University of Engineering in Nicaragua. <img src="images/octocat.png" width="400" align="right"/>
 
-I focus on **problem-solving through simplicity and creativity**, applying technology as a tool rather than an end.
-Experienced with **React/Next.js, .NET, Django, PostgreSQL, Docker, UiPath, n8n**, but always driven by the challenge, not the stack.
-Strong soft skills: **critical thinking, adaptability, persistence, and clear communication** across technical and non-technical teams.
+I'm **Wesley**, a Systems Engineering student at the National University of Engineering in Nicaragua, passionate about solving problems through simplicity, creativity, and purposeful technology. <img src="images/octocat.png" width="400" align="right"/>
 
+I design and develop solutions using React/Next.js, .NET, Django, PostgreSQL, Docker, UiPath, and n8n—choosing tools based on the challenge, not just the stack. My work bridges technical and non-technical teams, leveraging strong skills in critical thinking, adaptability, persistence, and clear communication to deliver effective results.
 
 <img src="https://github-readme-quotes-lemon.vercel.app/api?quoteColor=add8e6&authorColor=4682b4&backgroundColor=191970&symbolColor=00bfff" width="auto">
 
@@ -22,12 +20,16 @@ Strong soft skills: **critical thinking, adaptability, persistence, and clear co
 ---
 
 
-<details open>  
-  <summary><h2>🧠 What I'm Learning Now</h2></summary>  
-  <p>Strengthening my foundation in <strong>software development fundamentals</strong> to build a more integral and versatile knowledge base.</p>  
+    
   <p>Exploring <strong>software architecture, automation flows, and design patterns</strong> to enhance scalability and maintainability.</p>  
   <p>Learning and applying <strong>AI fundamentals, development, and integration</strong> to create efficient, real-world solutions in projects.</p>  
+<details open>  
+<summary><h2>🧠 What I'm Learning Now</h2></summary>
+  <p>Strengthening my foundation in software development fundamentals to develop a more comprehensive and versatile skill set.</p>  
+  <p>Exploring software architecture, automation workflows, and design patterns to improve scalability, efficiency, and maintainability of solutions.</p>
+  <p>Studying AI concepts, development, and integration to create intelligent, real-world applications in my projects.</p>
 </details>  
+
 
 ---
 
