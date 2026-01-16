@@ -16,7 +16,7 @@ Systems Engineering student at UNI (Nicaragua). I like building backend systems 
 
 Most of my work is in .NET, Python, and JavaScript. I also build automations with UiPath and n8n.
 
-<img src="https://github-readme-quotes-lemon.vercel.app/api?quoteColor=E2E8F0&authorColor=A78BFA&backgroundColor=1a1025&symbolColor=7C3AED" width="auto">
+<img src="https://github-readme-quotes-lemon.vercel.app/api?quoteColor=E2E8F0&authorColor=A78BFA&backgroundColor=0D1117&symbolColor=7C3AED" width="auto">
 
 ---
 
