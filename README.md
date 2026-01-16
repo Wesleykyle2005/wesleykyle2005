@@ -76,3 +76,5 @@ Most of my work is in .NET, Python, and JavaScript. I also build automations wit
 </p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wesleykyle2005&theme=midnight_purple" width=100%>
+
+![birds](./images/bird.gif)
