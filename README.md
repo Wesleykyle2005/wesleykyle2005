@@ -34,10 +34,6 @@ Most of my work is in .NET, Python, and JavaScript. I also build automations wit
 
 **▸ Languages**
 
-## ⌘ Tech Stack
-
-**▸ Languages**
-
 ![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=8B5CF6)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=8B5CF6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=8B5CF6)
