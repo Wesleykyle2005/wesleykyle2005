@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=2000&color=8B5CF6&vCenter=true&width=450&height=55&lines=Hey%2C+I'm+Wesley+·͜·)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1500&color=A78BFA&vCenter=true&width=550&height=40&lines=Backend+%26+Automation+Developer;.NET+%7C+Python+%7C+Javacript;Always+optimizing+processes)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1500&color=A78BFA&vCenter=true&width=550&height=40&lines=Backend+%26+Automation+Developer;.NET+%7C+Python+%7C+JavaScript;Always+optimizing+processes)](https://git.io/typing-svg)
 
 ---
 
@@ -69,15 +67,12 @@ Most of my work is in .NET, Python, and JavaScript. I also build automations wit
 ![UiPath](https://img.shields.io/badge/UiPath-0D1117?style=for-the-badge&logo=uipath&logoColor=8B5CF6)
 ![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=8B5CF6)
 
-
-
-
 ---
 
 ## ◉ Activity
+
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wesleykyle2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%">
-<p>
-
+</p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wesleykyle2005&theme=midnight_purple" width=100%>
