@@ -34,5 +34,5 @@ ENV/
 Thumbs.db
 Desktop.ini
 
-# NOTE: do NOT ignore games/ (chess game state .pgn/.p), img/ or data/
+# NOTE: do NOT ignore games/ (chess .pgn state), data/ or images/chess.gif
 # — those are committed by the Chess GitHub Action.
